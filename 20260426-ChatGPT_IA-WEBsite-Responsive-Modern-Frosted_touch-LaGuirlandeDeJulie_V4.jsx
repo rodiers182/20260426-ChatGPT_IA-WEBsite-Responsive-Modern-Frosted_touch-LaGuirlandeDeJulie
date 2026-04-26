@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 /*
   SITE VITRINE — LA GUIRLANDE DE JULIE
-  Date : 26/05/2026
+  Date : 26/04/2026
   Version : V4 premium claire
   Auteurs : Sylvain RD + ChatGPT 5.2
   Objectif : site vitrine moderne, minimaliste, responsive et orienté client local.
